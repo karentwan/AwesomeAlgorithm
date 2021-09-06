@@ -1,0 +1,13 @@
+.idea/
+.settings/
+bin/
+.classpath
+*.pyc
+_pycache_/
+snapshot/
+readme.txt
+*.log
+.project
+*.iml
+out/
+*.class
